@@ -94,7 +94,7 @@ not just in notebooks.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
 <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
